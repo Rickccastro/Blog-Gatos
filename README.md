@@ -1,5 +1,5 @@
 # Blog-Gatos
-Blog de gatos 
+Tela simples em HTML para um blog de gatos responsivo.
 
 versão mobile
 ![image](https://github.com/Rickccastro/Blog-Gatos/assets/127992895/342e1b84-9875-476b-b748-aab512618696)
